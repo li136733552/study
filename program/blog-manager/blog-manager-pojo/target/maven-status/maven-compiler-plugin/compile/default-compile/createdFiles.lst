@@ -1,0 +1,10 @@
+com\blog\pojo\CategoryExample$Criteria.class
+com\blog\pojo\BlogExample$Criteria.class
+com\blog\pojo\CategoryExample$Criterion.class
+com\blog\pojo\BlogExample$GeneratedCriteria.class
+com\blog\pojo\Category.class
+com\blog\pojo\CategoryExample$GeneratedCriteria.class
+com\blog\pojo\BlogExample$Criterion.class
+com\blog\pojo\Blog.class
+com\blog\pojo\CategoryExample.class
+com\blog\pojo\BlogExample.class
